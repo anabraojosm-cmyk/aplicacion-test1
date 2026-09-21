@@ -1,0 +1,119 @@
+⬛
+a Tema 5 
+Tema 5.- El acto administrativo. El procedimiento administrativo (Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+Común de las Administraciones Públicas). 
+TÍTULO PRELIMINAR: Disposiciones generales 
+● Artículo 1. Objeto de la Ley 
+○ Resumen: Establece el marco regulatorio básico del procedimiento administrativo 
+común, la validez y eficacia de los actos, y las reglas para la iniciativa legislativa y 
+reglamentaria. 
+○ Ideas clave: 
+■ Regula requisitos de validez y eficacia de los actos administrativos y el 
+procedimiento común (incluyendo sancionador y responsabilidad 
+patrimonial). 
+■ Define los principios de la iniciativa legislativa y la potestad reglamentaria. 
+■ Trámites adicionales o distintos solo pueden incluirse por ley de forma 
+motivada. 
+■ Vía reglamentaria solo se pueden fijar especialidades (órganos 
+competentes, plazos específicos, iniciación/terminación, informes y 
+publicaciones). 
+● Artículo 2. Ámbito subjetivo de aplicación 
+○ Resumen: Determina las entidades y organismos pertenecientes al sector público 
+a los que se aplica la ley. 
+○ Ideas clave: 
+■ Aplica a la Administración General del Estado, CCAA, Entidades Locales y 
+Sector Público Institucional. 
+■ El sector público institucional abarca: organismos públicos/derecho público, 
+entidades de derecho privado (cuando ejerzan potestades administrativas) y 
+Universidades públicas (supletoriamente). 
+■ Tienen la condición estricta de Administraciones Públicas: AGE, CCAA, 
+Entidades Locales y organismos/entidades de derecho público. 
+■ Las Corporaciones de Derecho Público se rigen por su normativa específica 
+y supletoriamente por esta ley en el ejercicio de funciones públicas. 
+TÍTULO I: De los interesados en el procedimiento 
+CAPÍTULO I: La capacidad de obrar y el concepto de interesado 
+● Artículo 3. Capacidad de obrar 
+○ Resumen: Define quiénes disponen de aptitud legal para actuar válidamente ante 
+la Administración. 
+○ Ideas clave: 
+■ Personas físicas o jurídicas con capacidad de obrar según normas civiles. 
+■ Menores de edad para derechos/intereses cuyo ejercicio permita el 
+ordenamiento sin asistencia de patria potestad, tutela o curatela (salvo 
+menores incapacitados si les afecta). 
+■ Grupos de afectados, uniones/entidades sin personalidad y patrimonios 
+independientes cuando la ley lo declare expresamente. 
+● Artículo 4. Concepto de interesado 
+○ Resumen: Enumera las condiciones por las que se atribuye la condición de 
+interesado en una tramitación. 
+ANA BRAOJOS MARTORELL 
+Tema 5.- El acto administrativo. El procedimiento administrativo (Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+Común de las Administraciones Públicas). 
+○ Ideas clave: 
+■ Promotores de la solicitud (titulares de derechos o intereses legítimos). 
+■ No promotores con derechos directos que puedan verse afectados. 
+■ Personas con intereses legítimos afectados que se personen antes de la 
+resolución definitiva. 
+■ Asociaciones y organizaciones representativas ostentan intereses colectivos 
+si la ley lo reconoce. 
+■ El derecho-habiente sucede en la condición de interesado si deriva de una 
+relación jurídica transmisible. 
+● Artículo 5. Representación 
+○ Resumen: Regula la intervención de terceros en nombre del interesado y su forma 
+de acreditación. 
+○ Ideas clave: 
+■ Permitida para personas físicas y jurídicas (si lo prevén sus Estatutos). 
+■ Firma, solicitudes, declaraciones responsables, recursos, desistimientos y 
+renuncias exigen acreditación obligatoria. 
+■ Para actos de mero trámite la representación se presume. 
+■ Acreditación mediante cualquier medio válido en Derecho (apud acta 
+presencial/electrónico o registro de apoderamientos). 
+■ Falta o insuficiencia de acreditación es subsanable en un plazo de 10 días 
+(o superior si se requiere). 
+■ Posibilidad de habilitación general/específica a terceros para transacciones 
+electrónicas. 
+● Artículo 6. Registros electrónicos de apoderamientos 
+○ Resumen: Normativa sobre los registros públicos interoperables de poderes 
+administrativos. 
+○ Ideas clave: 
+■ Obligatoriedad de registro general en AGE, CCAA y EELL (compatible con 
+registros particulares de organismos). 
+■ Interoperabilidad plena entre registros administrativos, Mercantil, de la 
+Propiedad y protocolos notariales. 
+■ Contenido obligatorio del asiento: datos de poderdante y apoderado, fecha, 
+período de vigencia y tipo de poder. 
+■ Tipos de poder: A (General para cualquier AAPP), B (Para cualquier trámite 
+ante una AAPP concreta), C (Para trámites específicos). 
+■ Apud acta por comparecencia electrónica (con firma electrónica) o 
+presencial (oficinas de asistencia en materia de registros). 
+■ Validez máxima del poder de 5 años (prorrogable por períodos máximos de 
+5 años o revocable en cualquier momento). 
+● Artículo 7. Pluralidad de interesados 
+○ Resumen: Regla de relación administrativa cuando convergen varios firmantes en 
+un único escrito. 
+○ Ideas clave: 
+■ Tramitación con el representante o interesado señalado expresamente. 
+■ En su defecto, las actuaciones se entienden con el que figure en primer 
+término. 
+ANA BRAOJOS MARTORELL 
+Tema 5.- El acto administrativo. El procedimiento administrativo (Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+Común de las Administraciones Públicas). 
+● Artículo 8. Nuevos interesados en el procedimiento 
+○ Resumen: Obligación de incorporar a terceros no personados cuyos derechos se 
+detecten durante la instrucción. 
+○ Ideas clave: 
+■ En procedimientos no públicos, se debe comunicar la tramitación a titulares 
+de derechos o intereses directos identificados en el expediente. 
+CAPÍTULO II: Identificación y firma de los interesados en el procedimiento administrativo 
+● Artículo 9. Sistemas de identificación de los interesados en el procedimiento 
+○ Resumen: Regula cómo comprueban las AAPP la identidad de los ciudadanos y 
+los medios electrónicos admitidos. 
+○ Ideas clave: 
+■ Verificación obligatoria mediante DNI o documento equivalente. 
+■ Medios admitidos: Certificados cualificados de firma, certificados 
+cualificados de sello y otros sistemas con registro previo y comunicación a 
+la Secretaría General de Administración Digital. 
+■ Los datos de sistemas de registro previo deben estar en la UE (o España 
+para categorías especiales de datos) y sin transferencias internacionales no 
+autorizadas. 
+■ Aceptación en AGE sirve para acreditar la identidad ante cualquier otra 
+Administración. 

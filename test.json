@@ -1,0 +1,68 @@
+[
+  {
+    "pregunta": "Según el artículo 6, ¿cuál es la validez máxima de un poder en los registros electrónicos de apoderamientos?",
+    "opciones": [
+      "3 años, no prorrogables.",
+      "5 años, prorrogable por períodos máximos de 5 años.",
+      "10 años improrrogables.",
+      "Indefinida salvo revocación expresa."
+    ],
+    "correcta": 1,
+    "explicacion": "El artículo 6 establece una validez máxima del poder de 5 años, la cual es prorrogable por períodos máximos de 5 años o revocable en cualquier momento."
+  },
+  {
+    "pregunta": "De acuerdo con el artículo 5, la falta o insuficiencia de acreditación de la representación es subsanable en un plazo de:",
+    "opciones": [
+      "5 días.",
+      "15 días improrrogables.",
+      "10 días (o superior si se requiere).",
+      "1 mes hábil."
+    ],
+    "correcta": 2,
+    "explicacion": "Conforme al artículo 5, la falta o insuficiencia de acreditación de la representación es subsanable en un plazo de 10 días (o superior si se requiere)."
+  },
+  {
+    "pregunta": "Según el artículo 7, si varias personas presentan un escrito conjunto y no señalan expresamente a un representante o interesado, ¿con quién se entenderán las actuaciones administrativas?",
+    "opciones": [
+      "Con el que figure en primer término.",
+      "Con el que figure en último término.",
+      "Individualmente con cada uno de los firmantes.",
+      "Con el firmante de mayor edad."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 7 determina que la tramitación se efectuará con el representante o interesado señalado expresamente y, en su defecto, las actuaciones se entenderán con el que figure en primer término."
+  },
+  {
+    "pregunta": "¿Qué medios están admitidos según el texto?",
+    "opciones": [
+      "Certificados cualificados de firma, certificados cualificados de sello y otros sistemas con registro previo y comunicación a la Secretaría General de Administración Digital.",
+      "Certificados no cualificados de firma y cualquier sistema de clave concertada con registro posterior.",
+      "Únicamente certificados cualificados de firma expedidos por la Administración General del Estado.",
+      "Sistemas de registro previo que realicen transferencias internacionales de datos autorizadas."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto cita textualmente como medios admitidos: 'Certificados cualificados de firma, certificados cualificados de sello y otros sistemas con registro previo y comunicación a la Secretaría General de Administración Digital'."
+  },
+  {
+    "pregunta": "Según el texto, ¿dónde deben estar los datos de los sistemas de registro previo y qué restricción tienen?",
+    "opciones": [
+      "Deben estar exclusivamente en España en todo caso y con transferencias internacionales permitidas.",
+      "Deben estar en la UE (o España para categorías especiales de datos) y sin transferencias internacionales no autorizadas.",
+      "Deben estar en cualquier país de la UE sin restricciones sobre la categoría de los datos.",
+      "Deben almacenarse en la Secretaría General de Administración Digital sin posibilidad de salida a la UE."
+    ],
+    "correcta": 1,
+    "explicacion": "El texto establece explícitamente que 'Los datos de sistemas de registro previo deben estar en la UE (o España para categorías especiales de datos) y sin transferencias internacionales no autorizadas'."
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la aceptación de un medio en la Administración General del Estado (AGE)?",
+    "opciones": [
+      "Acredita la identidad únicamente para trámites dentro del ámbito de la AGE.",
+      "Requiere una validación adicional antes de usarse en otras Administraciones.",
+      "Sirve para acreditar la identidad ante cualquier otra Administración.",
+      "Exime del requisito de que los datos estén alojados en la UE o España."
+    ],
+    "correcta": 2,
+    "explicacion": "Según el texto, la 'Aceptación en AGE sirve para acreditar la identidad ante cualquier otra Administración'."
+  }
+]
